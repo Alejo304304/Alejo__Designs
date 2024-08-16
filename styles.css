@@ -22,7 +22,7 @@ a {
   font-family: "font-bold";
 }
 a img {
-  width: 5%;
+  width: 8%;
   height: auto;
   margin-right: 5%;
 }
@@ -69,7 +69,7 @@ header {
 }
 
 .link-container a:hover {
-  background-color: #b3b3b3;
+  background-color: #242222;
 }
 
 .video-container {
